@@ -9,3 +9,5 @@ Actually, I'm creating this two projects with Unity Engine, HTML, CSS, C++, C#, 
 Also, I create a web-site, but for the moment, it is not online.
 
 Thank you and please, encourage me for my projects.
+
+You can follow me on the web-site of dev.to or just here.
